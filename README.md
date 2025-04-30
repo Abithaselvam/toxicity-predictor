@@ -50,9 +50,7 @@ This web app predicts the toxicity potential of SNP (single nucleotide polymorph
 
 > For large model files, Git LFS is used.
 
-## 📷 Screenshots
 
-_Add a screenshot here if needed_
 
 ## ✨ Future Improvements
 
